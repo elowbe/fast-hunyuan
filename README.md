@@ -1,4 +1,4 @@
-# Fast-Hunyuan.neu
+# fast-hunyuan.neu
 
 ## Overview
 A module for generating video content using Hunyuan Video model with dual LoRA support for enhanced output quality.
